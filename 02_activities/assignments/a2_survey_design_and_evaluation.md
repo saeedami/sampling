@@ -40,30 +40,33 @@ For the **Canadian General Social Survey on Giving, Volunteering, and Participat
 
 ## Part A - Survey Design: 
 
-The number of your chosen topic: `#`
+The number of your chosen topic: `2`
 
 Describe the purpose of your survey:
 ```
-write your answer here...
+The purpose of my survey is to understand what do the majority of people who are eligible to vote, and are willing to vote are looking for in a future prime minister that makes them vote for him/her.
 ```
 
 Describe your target population, sampling frame, sampling units, and observational units:
 ```
-write your answer here...
+Target popularion: All people that are eligible and willing to vote.
+
+sampling frame: A list of Emails of Canadian people that have reached the minimum age for voting.
+
+Sampling unit: One person
+
+Sampling strategy: Stratified random sampling, for a better understanding of what different groups of possible voters, that have different sizes, are looking in a future prime minister. Therefore, planing to win biggest size groups' votes.
 ```
 
 Your 5-10 question survey:
 ```
-1. write your question here...
-2. write your question here...
-3. write your question here...
-4. write your question here...
-5. write your question here...
-6. write your question here... (optional)
-7. write your question here... (optional)
-8. write your question here... (optional)
-9. write your question here... (optional)
-10. write your question here... (optional)
+1. From 1 to 10 how likely you will vote?
+2. If lilely voting, who are you considering currently to vote?
+3. In the coming days to election, how likely you will change your vote based on the each campaigns' plans?
+4. Are you in favor of a bigger government or smaller one?
+5. Are you in favor of more tax and more public services or less tax and stronger individual's economy?
+6. In your opinion, what is the most important government duty  that you are observing in each party's plan to make your decision in voting?
+
 ```
 
 ## Part B - Survey Evaluation:
@@ -71,7 +74,19 @@ Your 5-10 question survey:
 Identify and describe survey features:
 
 ```
-write your answer here
+1. Sample type : Stratified random sampling
+2. Sample size: 50000
+3. Target population: all persons 15 years of age and older living in the ten provinces of Canada. It excludes full-time (residing for more than six months) residents of institutions.
+4. Sampling frame : a combination of landline and cellular telephone numbers from the Census and various administrative sources with Statistics Canada's dwelling frame.
+5. Survey mode(s) : electronic questionnaire or through CATI
+6. Timeline: 2018-09-04 to 2018-12-28
+7. Response rate: 41.9%
+8. Weights: For each month independent estimates for various age-sex groups by province
+9. Data processing: used the SSPE set of generalized processing steps and utilities to allow subject matter and survey support staff to specify and run the processing of the survey in a timely fashion with high quality outputs.
+10. Cleaning, imputation, etc:  imputations were made using donor records selected through a score function
+11. Sources of error: sampling and non-sampling (imperfect coverage and non-response)
+12. Limitations, known biases, etc : households without coverage and the ones with coverage that are excluded adds bias
+13. Link to documentation and any additional sources used: https://www23.statcan.gc.ca/imdb/p2SV.pl?Function=getSurvey&Id=796234
 ```
 
 ## Rubric
